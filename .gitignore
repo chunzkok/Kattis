@@ -2,4 +2,6 @@
 *.ans
 *.zip
 *.class
+*.exe
 *~
+./.s/*
